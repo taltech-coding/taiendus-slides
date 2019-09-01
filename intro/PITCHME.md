@@ -44,5 +44,64 @@
 
 @ul
 - Tuleb käia tundides (lubatud 2 puudumist 10 korra kohta)
-- Tuleb algkursuse tunnikontrolli läbida (saada vähemalt 2.5 punkti võimalikust 5 punktist)
+- Tuleb algkursuse tunnikontroll läbida (saada vähemalt 2.5 punkti võimalikust 5 punktist)
 @ulend
+
+---
+
+## Aga nüüd - küsimusi?
+
+---
+
+## Korraldus
+
+@ul
+- Ülesannete esitamine
+ - Git (gitlab.cs.ttu.ee)
+ - codera.cs.ttu.ee
+@ulend
+
+---
+
+## Git
+
+@ul
+- Semestri lõpuks peaksid oskama Giti kasutada
+- Õpime seda jooksvalt algkursusel
+- See on "õige" viis, kuidas koodi salvestada
+@ulend
+
+---
+
+## Codera
+
+@ul
+- Mugav harjutamise platvorm
+- Lisame sinna jooksvalt harjutamiseks ülesandeid
+- Kogu täienduskursuse praktikumid saab codera platvormil läbida
+- Algkursuse tunnikontroll (täienduskursuse arvestus) tuleb läbida Gitiga
+@ulend
+
+---
+
+## Aga kui ma oskan..
+
+@ul
+- Kui sooritada esimeses praktikumis edukalt väikese testi, saad arvestuse kätte ja kohapeal käima ei pea.
+@ulend
+
+---
+
+## Teemad
+
+@ul
+- Muutuja
+- Tingimuslause
+- Tsükkel
+- Sõne, järjend
+- Funktsioon
+@ulend
+
+---
+
+## Aga küsimusi?
